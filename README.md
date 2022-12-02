@@ -24,8 +24,8 @@ After a customer purchases the product from Olist Store, a seller gets notified 
 
 ## Data Cleaning
 Use Clean.ipynb to clean most of the wrong data type
-If city name have weird char => change to english
-*são paulo -> sao paulo
+* If city name have weird char => change to english
+* são paulo -> sao paulo
 * use value_counts() for knowing whats important for us to use in analysis
 
 Put category from portuguese to english using translation file 
