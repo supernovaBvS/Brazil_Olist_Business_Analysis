@@ -32,10 +32,10 @@ Put category from portuguese to english using translation file
 Such as dropna, unreasonable time and date
 If product name, category = NAN jau drop
 
-## Machine Learning
-  
 ### SQL Database:
 * PostgreSQL
+
+## Machine Learning
  
 ### Machine Learning:(Classification)
 * Deliver date - Order date
