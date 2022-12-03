@@ -47,18 +47,27 @@ If product name, category = NAN jau drop
 
 ## PowerBi Dashboard
 olist home
+
 ![olist home](https://user-images.githubusercontent.com/112676063/205306712-ab8e4128-9b15-463e-ac1a-37abdc1e1ecf.png)
+
 olist_stats
+
 ![olist_stats](https://user-images.githubusercontent.com/112676063/205306770-307e820a-f5ef-445a-81c5-b209232f923d.png)
+
 olist_sentiment
+
 ![olist_sentiment](https://user-images.githubusercontent.com/112676063/205306785-dc71065d-2b11-4f32-b242-24b8accb9c82.png)
+
 olist_comment of sentiment
+
 ![olist_comment](https://user-images.githubusercontent.com/112676063/205306800-5f65d683-af69-4639-a2d0-8aa1d488c866.png)
+
 olist_forecast
+
 ![olist_forecast](https://user-images.githubusercontent.com/112676063/205306811-3224ce77-0ec2-45f6-b68a-2ef0e98ea0d4.png)
 
 ## Contributers
 - Norton Wong
 - Hollis Ho
 - Louis Choi
-- Allen Kong
+- [Allen Kong](https://www.linkedin.com/in/allen-kong-21568b250/)
